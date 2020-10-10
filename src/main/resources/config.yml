@@ -1,0 +1,7 @@
+# List of blocked game versions
+# The checks are done using startsWith()
+BlockedVersions:
+  - "1.16.10"
+
+# Message that is shown when a player gets kicked due to bad version
+BlockedMessage: "Please update your game"
